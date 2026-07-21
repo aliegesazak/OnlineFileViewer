@@ -1,6 +1,6 @@
 # Online File Viewer (Çevrimiçi Dosya Görüntüleyici)
 
-Bu proje, yüklenen belgeleri (PDF, DOCX, XLSX, PPTX, TXT vb.) sunucuda güvenli ve geçici bir şekilde saklayarak Google Docs Viewer aracılığıyla tarayıcıda görüntülemeyi sağlayan, modern cam efekti (glassmorphism) arayüzüne sahip bir web uygulamasıdır.
+Bu proje, yüklenen belgeleri (PDF, DOCX, XLSX, PPTX, TXT vb.) sunucuda güvenli ve geçici bir şekilde saklayarak Google Docs Viewer aracılığıyla tarayıcıda görüntülemeyi sağlayan, bu sayede güvenmediğiniz dosyaları online olarak görüntüleyebileceğiniz modern arayüze sahip bir web uygulamasıdır.
 
 Proje, **OWASP Top 10** güvenlik standartlarına uygun şekilde sıkılaştırılmış ve **21st.dev** / **Aceternity UI** sürükle-bırak dosya yükleme arayüzünden esinlenilerek yeniden tasarlanmıştır.
 
